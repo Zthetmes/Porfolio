@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "F:\\KUKRE\\NodeJs\\Materiales"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "python"
+	}
+}
